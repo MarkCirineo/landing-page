@@ -5,3 +5,10 @@
 header nav ul li {
     display: inline;
 }
+
+header {
+    background-color: tan;
+    text-align: center;
+    padding: 10px;
+}
+
