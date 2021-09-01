@@ -7,8 +7,9 @@ header nav ul li {
 }
 
 header {
-    background-color: tan;
+    background-color: rgb(216, 197, 172);
     text-align: center;
     padding: 10px;
+    color: darkblue;
 }
 
