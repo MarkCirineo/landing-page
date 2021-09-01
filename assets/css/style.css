@@ -16,3 +16,7 @@ header {
 .center {
     text-align: center;
 }
+
+#submit-button {
+    margin: 10px;
+}
