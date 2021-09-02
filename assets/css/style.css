@@ -4,21 +4,26 @@
     padding: 0;
 }
 
-header nav ul li {
-    display: inline;
-    padding: 0px 20px;
-    text-decoration: none;
-    text-align: right;
-}
-
 header {
-    background-color: rgb(216, 197, 172);
-    padding: 10px;
-    text-align: center;
-    color: darkblue;
+    background-color: #1C1F5F;
     position: fixed;
+    text-align: right;
+    padding: 20px;
     width: 100%;
     top: 0;
+    position: fixed;
+    border-bottom: 10px solid tan;
+}
+
+header nav ul li {
+    display: inline;
+    /* padding: 0px 50px; */
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #D1C7C7;
+    padding-right: 50px;
 }
 
 #contact-form {
