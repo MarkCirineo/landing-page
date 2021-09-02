@@ -1,15 +1,20 @@
 * {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 header nav ul li {
     display: inline;
+    padding: 0px 20px;
+    text-decoration: none;
+    text-align: right;
 }
 
 header {
     background-color: rgb(216, 197, 172);
-    text-align: center;
     padding: 10px;
+    text-align: center;
     color: darkblue;
     position: fixed;
     width: 100%;
